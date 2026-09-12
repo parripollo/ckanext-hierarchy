@@ -1,6 +1,10 @@
 [![Tests](https://github.com/ckan/ckanext-hierarchy/workflows/Tests/badge.svg)](https://github.com/ckan/ckanext-hierarchy/actions)
 [![License](https://img.shields.io/pypi/l/ckanext-hierarchy.svg)](https://pypi.org/project/ckanext-hierarchy/)
 
+> Fork of [ckan/ckanext-hierarchy](https://github.com/ckan/ckanext-hierarchy) tested against
+> [CKAN with PostgreSQL only](https://ckanito.cluster311.com) (no Solr, no Redis).
+
+
 
 # ckanext-hierarchy - Organization and group hierarchy for CKAN
 
