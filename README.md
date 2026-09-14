@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/pypi/l/ckanext-hierarchy.svg)](https://pypi.org/project/ckanext-hierarchy/)
 
 > Fork of [ckan/ckanext-hierarchy](https://github.com/ckan/ckanext-hierarchy) tested against
-> [CKAN with PostgreSQL only](https://ckanito.cluster311.com) (no Solr, no Redis).
+> [CKAN with PostgreSQL only](https://ckan.cbadatos.com.ar) (no Solr, no Redis).
 
 
 
